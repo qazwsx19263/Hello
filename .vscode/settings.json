@@ -1,0 +1,7 @@
+{
+    "python.venvPath": "/Users/michael/Desktop/Hello",
+    "python.terminal.activateEnvironment": true, // 自動啟動環境
+    "python.linting.pylintEnabled": true,  // 需要 pip install pylint
+    "python.linting.enabled": true,
+    "python.pythonPath": "venvtest/bin/python",
+}
