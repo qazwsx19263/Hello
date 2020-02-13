@@ -4,4 +4,5 @@
     "python.linting.pylintEnabled": true,  // 需要 pip install pylint
     "python.linting.enabled": true,
     "python.pythonPath": "venvtest/bin/python",
+    "python.autoComplete.addBrackets":true,
 }
